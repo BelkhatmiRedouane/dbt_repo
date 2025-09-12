@@ -1,3 +1,3 @@
-# Description du projet
+## Description du projet
 Cours sur dbt
-## Cours déstiné à l'apprentissage de DBT
+#Cours déstiné à l'apprentissage de DBT
